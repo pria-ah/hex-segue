@@ -1,0 +1,4 @@
+USE College;
+
+ALTER TABLE Employee
+MODIFY Salary DECIMAL(12,2);

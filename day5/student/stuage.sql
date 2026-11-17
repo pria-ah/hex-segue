@@ -1,0 +1,4 @@
+USE College;
+
+ALTER TABLE Student
+MODIFY Age SMALLINT;
